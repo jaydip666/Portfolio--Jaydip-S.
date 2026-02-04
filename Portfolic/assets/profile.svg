@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#7C5CFF"/>
+      <stop offset="1" stop-color="#5B9BFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="18" fill="#071827" />
+  <circle cx="100" cy="72" r="36" fill="url(#g)" />
+  <rect x="36" y="130" width="128" height="32" rx="8" fill="#0b1220" />
+  <text x="100" y="152" font-size="12" text-anchor="middle" fill="#94a3b8" font-family="Inter, Arial">Your Name</text>
+</svg>
